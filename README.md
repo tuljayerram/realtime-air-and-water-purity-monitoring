@@ -39,3 +39,8 @@ This is an IoT-based project that monitors *air and water quality in real time* 
 2. ESP8266 sends the data to ThingSpeak via Wi-Fi.
 3. Optionally, data is pushed to Google Sheets using Apps Script.
 4. The data is visualized in real-time charts for easy monitoring.
+
+
+⭐️ If you cloned this repo and found it useful, please consider giving it a star! It helps more people find it.
+
+📝 Feedback? Open a discussion or issue — I'd love to hear from you!
